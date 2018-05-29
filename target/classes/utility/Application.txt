@@ -1,0 +1,2 @@
+29/05/2018 17:02:18 devpinoyLogger ******--- Its started -----********
+29/05/2018 17:02:22 devpinoyLogger ******--- Its completed -----********
